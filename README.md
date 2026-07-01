@@ -5,17 +5,17 @@
 <h3 align="center">Ingeniero de Sistemas | Data Analyst | Analítica y Ciencia de Datos</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kuepa%20Edutech-Analista%20de%20Datos-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analista%20de%20Datos-1E3A8A?style=flat-square" />
   <img src="https://img.shields.io/badge/Bogotá-Colombia-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graduación-Sep%202026-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Abierto%20a%20oportunidades-3B82F6?style=flat-square" />
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💼 Actualmente trabajo como **Analista de Datos** en **Kuepa Edutech**, en el área de Educación Superior, donde diseño y mantengo arquitecturas de datos, dashboards de seguimiento académico y flujos de automatización.
-- 🎓 Estoy finalizando mi carrera de **Ingeniería de Sistemas** (graduación en septiembre 2026) y cursando una **Especialización en Analítica y Ciencia de Datos**.
+- 💼 Actualmente trabajo como **Analista de Datos** en el sector EdTech, donde diseño y mantengo arquitecturas de datos, dashboards de seguimiento académico y flujos de automatización.
+- 🎓 Próximo a graduarme de **Ingeniería de Sistemas** y cursando una **Especialización en Analítica y Ciencia de Datos**.
 - 🔧 Me enfoco en convertir procesos manuales en sistemas automatizados: bots, integraciones y portales internos que reducen errores y tiempos de operación.
 - 📊 Experiencia construyendo dashboards de retención, indicadores de calidad y reportes ejecutivos para toma de decisiones.
 - 🌱 Explorando freelance en **Workana** como proyecto paralelo.
