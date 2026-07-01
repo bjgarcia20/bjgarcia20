@@ -1,11 +1,13 @@
-<h1 align="center">¡Hola! Soy Julian 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=¡Hola!%20Soy%20Julian&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Automatización%20%7C%20Analítica&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+</p>
 
 <h3 align="center">Ingeniero de Sistemas | Data Analyst | Analítica y Ciencia de Datos</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kuepa%20Edutech-Analista%20de%20Datos-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bogotá-Colombia-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graduación-Sep%202026-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kuepa%20Edutech-Analista%20de%20Datos-1E3A8A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bogotá-Colombia-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduación-Sep%202026-3B82F6?style=flat-square" />
 </p>
 
 ---
@@ -52,15 +54,19 @@
 ### 📫 Conéctate conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/juliang20"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:brian20200garcia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juliang20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:brian20200garcia@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bjgarcia20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bjgarcia20&show_icons=true&theme=cobalt&hide_border=true&bg_color=0F2027" />
 </p>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjgarcia20&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bjgarcia20&layout=compact&theme=cobalt&hide_border=true&bg_color=0F2027" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 </p>
