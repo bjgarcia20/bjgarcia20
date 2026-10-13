@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliang20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:brian20200garcia@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://www.tiktok.com/@soyjulian"><img src="https://img.shields.io/badge/@SoyJulian-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:brian20200garcia@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -21,8 +20,6 @@
 Ingeniero de Sistemas y Analista de Datos con +3 años de experiencia en EdTech. Diseño pipelines de datos, dashboards ejecutivos y automatizaciones que eliminan procesos manuales. Actualmente cursando una **Especialización en Analítica y Ciencia de Datos**.
 
 > 📉 **Resultado clave:** Reduje la tasa de estudiantes mal ubicados de **~20% a menos del 1%**, automatizando la validación de datos académicos con BigQuery y Apps Script.
-
-Creo contenido sobre datos, SQL y automatización en [@SoyJulian](https://www.tiktok.com/@soyjulian) — porque aprender tecnología no debería ser aburrido.
 
 ---
 
